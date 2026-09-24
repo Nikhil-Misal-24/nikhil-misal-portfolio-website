@@ -4,7 +4,7 @@ A modern, premium, and responsive personal portfolio website showcasing my journ
 
 ## 🌐 Live Website
 
-**Portfolio:** (https://nikhil-misal-24.github.io/nikhil-misal-portfolio-website/)
+**Portfolio:** https://nikhil-misal-24.github.io/nikhil-misal-portfolio-website/
 ---
 
 ## ✨ Features
