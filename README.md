@@ -265,11 +265,11 @@ This project is intended for personal portfolio use.
 
 Electronics / Embedded Systems / IoT / Technology
 
-GitHub: [Your GitHub Profile]
+GitHub: github.com/Nikhil-Misal-24
 
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: linkedin.com/in/nikhil-misal24
 
-Portfolio: [Your Live Portfolio]
+Portfolio: https://nikhil-misal-24.github.io/nikhil-misal-portfolio-website/
 
 ---
 
